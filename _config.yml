@@ -29,19 +29,19 @@ roles:
    start: 2015
    end: 2017
    employer: Municipalidad de Quilmes
-   description: Atencion al vecino (de manera telefonica y personal) y mesa de informes.
- - title: Soporte Tecnico
+   description: Atención al vecino (de manera telefonica y personal) y mesa de informes.
+ - title: Soporte Técnico
    start: 2012
    end: 2012
    employer: Universidad Nacional de Quilmes
-   description: Pasantia en el area de soporte técnico en la universidad (reparacion, control de ingresos y egresos de los equipos).
+   description: Pasantía en el área de soporte técnico en la universidad (reparación, control de ingresos y egresos de los equipos).
  
 #Education is required
 education:
- - level: Licenciatura en Informatica con orientacion a desarrollo de software
+ - level: Licenciatura en Informática con orientacion a desarrollo de software
    date: 2014 - ACTUALIDAD
    school: Universidad Nacional de Quilmes
- - level: Tecnicatura en Programacion Informatica
+ - level: Tecnicatura en Programacion Informática
    date: 2014 - ACTUALIDAD
    school: Universidad Nacional de Quilmes
 
